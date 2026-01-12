@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+}
+
+nav {
+    border: solid;
+    border-color: rgb(0, 0, 255);
+}
+
+aside {
+    border: solid;
+    border-color: green;
+}
+
+section {
+    border: solid;
+    border-color: aqua;
+    margin-bottom:20px;
+    width: 80%;
+    margin: 2rem auto;
+    /* px, em, rem */
+}
+
+article {
+    border: solid;
+    border-color: red;
+}
+
+article p {
+    background-color: blanchedalmond;
+}
+
+footer {
+    border: solid;
+    border-color: brown;
+}
